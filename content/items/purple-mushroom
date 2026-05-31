@@ -1,9 +1,0 @@
-{
-  "name": "Фиолетовый гриб",
-  "description": "Редкий гриб, найденный глубоко в пещерах.",
-  "details": "игра' stardew valley",
-  "type": "material",
-  "color": "9370DB",
-  "radioactivity": 0.15,
-  "cost": 5
-}

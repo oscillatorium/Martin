@@ -1,0 +1,10 @@
+displayName: "Martin's mod"
+name: "martin"
+author: "мартин"
+subtitle: "мод Мартина"
+description: "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
+version: 0.01
+minGameVersion: 146
+java: false
+hidden: false
+repo: "oscillatorium/Martin"

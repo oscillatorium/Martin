@@ -21,11 +21,11 @@ jobs:
         run: |
           mkdir Martin
           cp -r content sprites mod.hjson Martin/
-      
-      - name: Archive mod
-        run: zip -r Martin.zip Martin
+          zip -r Martin.zip Martin
 
       - name: Upload to release
         uses: softprops/action-gh-release@v2
         with:
           files: Martin.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

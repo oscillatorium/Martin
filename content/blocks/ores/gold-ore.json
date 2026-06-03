@@ -3,7 +3,7 @@
   "name": "Золотая руда",
   "description": "Блестящая руда, скрытая в глубине.",
   "details": "игра stardew valley",
-  "itemDrop": "gold-ore",
+  "itemDrop": "gold-nugget",
   "mapColor": "FFD700",
   "oreDefault": true,
   "variants": 1

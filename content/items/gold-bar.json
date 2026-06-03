@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Золотой слиток",
+  "description": "Благородный металл. Используется в электронике и украшениях.",
+  "details": "игра stardew valley",
+  "color": "FFD700",
+  "cost": 2,
+  "flammability": 0,
+  "radioactivity": 0,
+  "explosiveness": 0
+}

@@ -1,0 +1,10 @@
+{
+  "type": "OreBlock",
+  "name": "Золотая руда",
+  "description": "Блестящая руда, скрытая в глубине.",
+  "details": "игра stardew valley",
+  "itemDrop": "gold-ore",
+  "mapColor": "FFD700",
+  "oreDefault": true,
+  "variants": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "material",
+  "name": "Золотая руда",
+  "description": "Необработанная золотая руда. Требует переплавки.",
+  "details": "игра stardew valley",
+  "color": "FFD700",
+  "hardness": 1,
+  "cost": 1
+}

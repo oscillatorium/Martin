@@ -1,0 +1,12 @@
+{
+  "name": "Аметист",
+  "description": "Аметист - драгоценный камень.",
+  "type": "material",
+  "color": "8800FF",
+  "flammability": 0,
+  "radioactivity": 0,
+  "explosiveness": 0,
+  "cost": 2,
+  "hardness": 0,
+  "alwaysUnlocked": true
+}

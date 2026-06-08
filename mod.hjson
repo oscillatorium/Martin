@@ -1,8 +1,8 @@
-displayName: "Martin's mod"
-name: "martin"
+displayName: "Stardew Mindustry"
+name: "stardew"
 author: "мартин"
 subtitle: "мод Мартина"
-description: "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
+description: "мод по стардью валлей. мод не предназначен для нормальной игры."
 version: 0.01
 minGameVersion: 146
 java: false

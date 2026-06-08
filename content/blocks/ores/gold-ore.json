@@ -1,9 +1,8 @@
 {
   "type": "OreBlock",
   "name": "Золотая руда",
-  "description": "Блестящая руда.",
-  "details": "игра Stardew Valley.",
+  "description": "Драгоценная руда.",
   "itemDrop": "gold-nugget",
-  "mapColor": "FFD700",
-  "oreDefault": true
+  "mapColor": "FFFF00",
+  "variants": 1
 }

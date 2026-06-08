@@ -1,7 +1,6 @@
 {
   "name": "Алмаз",
   "description": "Алмаз, добытый из алмазных жил.",
-  "details": "Алмаз из игры Stardew valley.",
   "type": "material",
   "color": "88FFFF",
   "flammability": 0,
